@@ -2,7 +2,7 @@
 
 前端nginx静态文件一键自动化部署。
 
-![Image text](https://github.com/lqPrototype/nginx-static-deploy-cli/L1VzZXJzL2xxL0xpYnJhcnkvQXBwbGljYXRpb24gU3VwcG9ydC9EaW5nVGFsa01hYy8yMjQ2ODE5MDQxX3YyL0ltYWdlRmlsZXMvMTY5NjkzMzY0ODYzM181NzgwNjY5RC00ODZDLTQ3MjItODIzRC1FNjhEQjU3NzYyRjQucG5n.png)
+![Image text](https://github.com/lqPrototype/nginx-static-deploy-cli/blob/master/sc.png)
 
 
 ## 使用
