@@ -60,3 +60,7 @@ module.exports = {
 
 
 ```
+
+## 备注
+
+> .gitignore 添加 deploy.config.js
