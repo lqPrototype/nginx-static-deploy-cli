@@ -63,4 +63,4 @@ module.exports = {
 
 ## 备注
 
-> .gitignore 添加 deploy.config.js
+> .gitignore 添加 deploy.config.js，服务器有zip和unzip命令
